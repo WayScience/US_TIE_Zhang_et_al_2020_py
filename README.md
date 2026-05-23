@@ -1,8 +1,7 @@
 # US_TIE_Zhang_et_al_2020_py
 
 <p align="center">
-  <img src="_static/logo-light.png" alt="US_TIE_Zhang_et_al_2020_py logo" width="160" #gh-light-mode-only/>
-  <img src="_static/logo-dark.png"  alt="US_TIE_Zhang_et_al_2020_py logo" width="160" #gh-dark-mode-only/>
+  <img src="_static/logo-light.png" alt="US_TIE_Zhang_et_al_2020_py logo" width="160"/>
 </p>
 
 [![CI](https://github.com/wayscience/US_TIE_Zhang_et_al_2020_py/actions/workflows/ci.yml/badge.svg)](https://github.com/wayscience/US_TIE_Zhang_et_al_2020_py/actions/workflows/ci.yml)
