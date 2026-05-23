@@ -106,6 +106,8 @@ html_theme_options = {
     "source_branch":     "main",
     "source_directory":  "docs/",
     "navigation_with_keys": True,
+    "light_logo": "logo-light.png",
+    "dark_logo":  "logo-dark.png",
     "light_css_variables": {
         "color-brand-primary":   "#0369a1",   # blue-700
         "color-brand-content":   "#0369a1",
@@ -117,7 +119,6 @@ html_theme_options = {
 }
 
 html_title       = "US_TIE_Zhang_et_al_2020_py"
-html_logo        = "_static/logo.png"
 html_static_path = ["_static"]
 
 # ---------------------------------------------------------------------------
