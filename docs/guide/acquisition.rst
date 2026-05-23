@@ -6,9 +6,6 @@ Image acquisition guide
 This page describes how to acquire images for phase retrieval and how to
 translate microscope settings into the parameters required by ``US_TIE_Zhang_et_al_2020_py``.
 
-.. contents:: On this page
-   :local:
-   :depth: 2
 
 Overview
 --------

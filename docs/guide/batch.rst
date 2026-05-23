@@ -6,9 +6,6 @@ Batch processing and performance
 This page covers how to process many images efficiently: time-lapse movies,
 multi-condition experiments, and large image stacks.
 
-.. contents:: On this page
-   :local:
-   :depth: 2
 
 Reusing the solver (fastest approach)
 ---------------------------------------

@@ -6,9 +6,6 @@ Background: the physics and the algorithm
 This page explains the ideas behind ``US_TIE_Zhang_et_al_2020_py`` in plain terms before
 introducing the relevant mathematics.
 
-.. contents:: On this page
-   :local:
-   :depth: 2
 
 Why can't I just image the phase directly?
 ------------------------------------------

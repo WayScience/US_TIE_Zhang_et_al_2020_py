@@ -3,10 +3,6 @@
 Quick start
 ===========
 
-.. contents:: On this page
-   :local:
-   :depth: 2
-
 Installation
 ------------
 

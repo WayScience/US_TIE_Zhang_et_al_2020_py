@@ -7,9 +7,6 @@ Choosing the right solver backend
 handle the image boundaries.  For most use cases the default FFT backend is
 fine.  This page explains the trade-offs and helps you decide when to switch.
 
-.. contents:: On this page
-   :local:
-   :depth: 2
 
 The short version
 -----------------
