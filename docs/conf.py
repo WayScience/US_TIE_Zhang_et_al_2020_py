@@ -117,6 +117,7 @@ html_theme_options = {
 }
 
 html_title       = "US_TIE_Zhang_et_al_2020_py"
+html_logo        = "_static/logo.png"
 html_static_path = ["_static"]
 
 # ---------------------------------------------------------------------------

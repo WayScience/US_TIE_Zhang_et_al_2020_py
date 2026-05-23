@@ -1,5 +1,9 @@
 # US_TIE_Zhang_et_al_2020_py
 
+<p align="center">
+  <img src="_static/logo.png" alt="US_TIE_Zhang_et_al_2020_py logo" width="160"/>
+</p>
+
 [![CI](https://github.com/wayscience/US_TIE_Zhang_et_al_2020_py/actions/workflows/ci.yml/badge.svg)](https://github.com/wayscience/US_TIE_Zhang_et_al_2020_py/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/wayscience/US_TIE_Zhang_et_al_2020_py/branch/main/graph/badge.svg)](https://codecov.io/gh/wayscience/US_TIE_Zhang_et_al_2020_py)
 [![Documentation Status](https://readthedocs.org/projects/us-tie-zhang-et-al-2020-py/badge/?version=latest)](https://us-tie-zhang-et-al-2020-py.readthedocs.io/en/latest/)
