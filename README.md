@@ -82,7 +82,7 @@ pip install US_TIE_Zhang_et_al_2020_py
 git clone https://github.com/wayscience/US_TIE_Zhang_et_al_2020_py
 cd US_TIE_Zhang_et_al_2020_py
 uv sync --group dev
-uv run pytest          # confirm all 68 tests pass
+uv run pytest          # confirm all 82 tests pass
 ```
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full development workflow.

@@ -50,7 +50,8 @@ To build the documentation locally, add the ``docs`` optional dependencies:
 
 .. code-block:: bash
 
-   uv sync --group dev --extra docs
+   uv sync --group dev
+   uv pip install -e ".[docs]"
    uv run sphinx-build docs docs/_build/html
    open docs/_build/html/index.html
 
@@ -82,4 +83,4 @@ To run the full test suite:
 
    uv run pytest
 
-All 68 tests should pass.
+All 82 tests should pass.
